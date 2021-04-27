@@ -92,6 +92,13 @@ p{
     color:#72EB1A;
 }
 
+#mensaje{
+    color:red;
+    text-align: right;
+    font-size:50%;
+   
+}
+
   /*Diseño para dispositivos con mas de 559 px*/
 
 @media screen and (min-width:560px){
@@ -133,7 +140,7 @@ p{
     font-size: 80%;
   }
     
-    
+   
     
 }
 
