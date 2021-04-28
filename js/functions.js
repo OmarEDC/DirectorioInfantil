@@ -115,7 +115,7 @@ function niñaIran(){
 
 function actualIran(){
     var foto=document.getElementById("fotoIran");
-    foto.src="./img/Iran.jpeg";
+    foto.src="./img/Iran.jpg";
 }
 
 function niñoJorge(){
