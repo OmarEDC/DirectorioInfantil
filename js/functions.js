@@ -18,6 +18,16 @@ function actualMarlene(){
     foto.src="./img/Marlene.jpeg";
 }
 
+function niñaCarmen(){
+    var foto=document.getElementById("fotoCarmen");
+    foto.src="./img/CarmenBB.jpeg";    
+}
+
+function actualCarmen(){
+    var foto=document.getElementById("fotoCarmen");
+    foto.src="./img/Carmen.jpeg";
+}
+
 function niñaMangie(){
     var foto=document.getElementById("fotoMangie");
     foto.src="./img/MangieBB.jpeg";    
@@ -26,6 +36,16 @@ function niñaMangie(){
 function actualMangie(){
     var foto=document.getElementById("fotoMangie");
     foto.src="./img/Mangie.jpeg";
+}
+
+function niñaValeria(){
+    var foto=document.getElementById("fotoValeria");
+    foto.src="./img/ValeriaBB.jpeg";    
+}
+
+function actualValeria(){
+    var foto=document.getElementById("fotoValeria");
+    foto.src="./img/Valeria.jpeg";
 }
 
 function niñoOmar(){
@@ -46,4 +66,64 @@ function niñaItzel(){
 function actualItzel(){
     var foto=document.getElementById("fotoItzel");
     foto.src="./img/Itzel.jpeg";
+}
+
+function niñoDavid(){
+    var foto=document.getElementById("fotoDavid");
+    foto.src="./img/DavidBB.jpg";    
+}
+
+function actualDavid(){
+    var foto=document.getElementById("fotoDavid");
+    foto.src="./img/David.jpeg";
+}
+
+function niñaLucia(){
+    var foto=document.getElementById("fotoLucia");
+    foto.src="./img/LuciaBB.jpeg";    
+}
+
+function actualLucia(){
+    var foto=document.getElementById("fotoLucia");
+    foto.src="./img/Lucia.jpeg";
+}
+
+function niñaMirna(){
+    var foto=document.getElementById("fotoMirna");
+    foto.src="./img/MirnaBB.jpeg";    
+}
+
+function actualMirna(){
+    var foto=document.getElementById("fotoMirna");
+    foto.src="./img/Mirna.jpeg";
+}
+
+function niñaStephanie(){
+    var foto=document.getElementById("fotoStephanie");
+    foto.src="./img/StephanieBB.jpeg";    
+}
+
+function actualStephanie(){
+    var foto=document.getElementById("fotoStephanie");
+    foto.src="./img/Stephanie.jpeg";
+}
+
+function niñaIran(){
+    var foto=document.getElementById("fotoIran");
+    foto.src="./img/IranBB.jpg";    
+}
+
+function actualIran(){
+    var foto=document.getElementById("fotoIran");
+    foto.src="./img/Iran.jpeg";
+}
+
+function niñoJorge(){
+    var foto=document.getElementById("fotoJorge");
+    foto.src="./img/JorgeBB.jpeg";    
+}
+
+function actualJorge(){
+    var foto=document.getElementById("fotoJorge");
+    foto.src="./img/Jorge.jpeg";
 }
