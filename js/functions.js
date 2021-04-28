@@ -127,3 +127,22 @@ function actualJorge(){
     var foto=document.getElementById("fotoJorge");
     foto.src="./img/Jorge.jpeg";
 }
+
+function niñaMalu(){
+    var foto=document.getElementById("fotoMalu");
+    foto.src="./img/MaluBB.jpeg";    
+}
+
+function actualMalu(){
+    var foto=document.getElementById("fotoMalu");
+    foto.src="./img/Malu.jpeg";
+}
+function niñoEdgar(){
+    var foto=document.getElementById("fotoEdgar");
+    foto.src="./img/EdgarBB.jpeg";    
+}
+
+function actualEdgar(){
+    var foto=document.getElementById("fotoEdgar");
+    foto.src="./img/Edgar.jpeg";
+}
