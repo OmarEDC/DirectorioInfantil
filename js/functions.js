@@ -20,7 +20,7 @@ function actualMarlene(){
 
 function niñaCarmen(){
     var foto=document.getElementById("fotoCarmen");
-    foto.src="./img/CarmenBB.jpeg";    
+    foto.src="./img/CarmenBB.png";    
 }
 
 function actualCarmen(){
@@ -164,4 +164,13 @@ function niñaMartha(){
 function actualMartha(){
     var foto=document.getElementById("fotoMartha");
     foto.src="./img/Martha.jpeg";
+}
+
+function niñaLizbeth(){
+    var foto=document.getElementById("fotoLizbeth");
+    foto.src="./img/LizbethBB.jpeg";    
+}
+function actualLizbeth(){
+    var foto=document.getElementById("fotoLizbeth");
+    foto.src="./img/Lizbeth.jpeg";
 }
