@@ -132,11 +132,11 @@ function niñaMalu(){
     var foto=document.getElementById("fotoMalu");
     foto.src="./img/MaluBB.jpeg";    
 }
-
 function actualMalu(){
     var foto=document.getElementById("fotoMalu");
     foto.src="./img/Malu.jpeg";
 }
+
 function niñoEdgar(){
     var foto=document.getElementById("fotoEdgar");
     foto.src="./img/EdgarBB.jpeg";    
@@ -145,4 +145,23 @@ function niñoEdgar(){
 function actualEdgar(){
     var foto=document.getElementById("fotoEdgar");
     foto.src="./img/Edgar.jpeg";
+}
+
+function niñoAdrian(){
+    var foto=document.getElementById("fotoAdrian");
+    foto.src="./img/AdrianBB.jpeg";    
+}
+
+function actualAdrian(){
+    var foto=document.getElementById("fotoAdrian");
+    foto.src="./img/Adrian.jpeg";
+}
+
+function niñaMartha(){
+    var foto=document.getElementById("fotoMartha");
+    foto.src="./img/MarthaBB.jpeg";    
+}
+function actualMartha(){
+    var foto=document.getElementById("fotoMartha");
+    foto.src="./img/Martha.jpeg";
 }
