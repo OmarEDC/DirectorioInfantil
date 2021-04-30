@@ -25,7 +25,7 @@ function niñaCarmen(){
 
 function actualCarmen(){
     var foto=document.getElementById("fotoCarmen");
-    foto.src="./img/Carmen.jpeg";
+    foto.src="./img/Carmen.png";
 }
 
 function niñaMangie(){
@@ -173,4 +173,51 @@ function niñaLizbeth(){
 function actualLizbeth(){
     var foto=document.getElementById("fotoLizbeth");
     foto.src="./img/Lizbeth.jpeg";
+}
+
+function niñaBerenice(){
+    var foto=document.getElementById("fotoBerenice");
+    foto.src="./img/BereniceBB.jpeg";    
+}
+function actualBerenice(){
+    var foto=document.getElementById("fotoBerenice");
+    foto.src="./img/Berenice.jpeg";
+}
+
+function niñoAdrian(){
+    var foto=document.getElementById("fotoAdrian");
+    foto.src="./img/AdrianBB.jpeg";    
+}
+
+function actualAdrian(){
+    var foto=document.getElementById("fotoAdrian");
+    foto.src="./img/Adrian.jpeg";
+}
+
+function niñoRoberto(){
+    var foto=document.getElementById("fotoRoberto");
+    foto.src="./img/RobertoBB.jpeg";    
+}
+
+function actualRoberto(){
+    var foto=document.getElementById("fotoRoberto");
+    foto.src="./img/Roberto.jpeg";
+}
+
+function niñaIsabel(){
+    var foto=document.getElementById("fotoIsabel");
+    foto.src="./img/IsabelBB.jpeg";    
+}
+function actualIsabel(){
+    var foto=document.getElementById("fotoIsabel");
+    foto.src="./img/Isabel.jpeg";
+}
+
+function niñaKarla(){
+    var foto=document.getElementById("fotoKarla");
+    foto.src="./img/KarlaBB.jpeg";    
+}
+function actualKarla(){
+    var foto=document.getElementById("fotoKarla");
+    foto.src="./img/Karla.jpeg";
 }
